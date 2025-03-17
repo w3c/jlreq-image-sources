@@ -1,2 +1,2 @@
 # jlreq-image-sources
-Image source files for the Text Layout Requirements for Japanese document
+Image source files for the [Requirements for Japanese Text Layout](https://www.w3.org/TR/jlreq/) document.
